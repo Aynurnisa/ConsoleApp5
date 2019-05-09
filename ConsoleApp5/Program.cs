@@ -14,6 +14,8 @@ namespace ConsoleApp5
             Console.WriteLine("Dette er Branch 2");
             Console.WriteLine("");
 
+            Person P = new Person("Daniel", 33);
+
             Console.ReadKey();
         }
     }
