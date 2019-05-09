@@ -12,7 +12,7 @@ namespace ConsoleApp5
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Dette  er Branch 2");
-            Console.WriteLine(" ");
+            Console.WriteLine("");
 
             Console.ReadKey();
         }
