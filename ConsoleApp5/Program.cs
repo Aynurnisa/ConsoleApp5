@@ -15,6 +15,7 @@ namespace ConsoleApp5
             Console.WriteLine("");
 
             Person P = new Person("Daniel", 33);
+            Console.WriteLine("Test");
 
             Console.ReadKey();
         }
