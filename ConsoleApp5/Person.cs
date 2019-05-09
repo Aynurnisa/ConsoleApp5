@@ -10,11 +10,14 @@ namespace ConsoleApp5
     {
         private string navn;
         private int alder;
+        private string profession;
 
-        public Person(string n, int a)
+        public Person(string n, int a, string p)
         {
             navn = n;
             alder = a;
+            profession = p;
+            
         }
 
     }
