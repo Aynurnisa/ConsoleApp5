@@ -11,7 +11,6 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("hej med jer");
             Console.ReadKey();
         }
     }
