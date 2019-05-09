@@ -11,6 +11,8 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Dette er Branch 1");
+
             Console.ReadKey();
         }
     }
